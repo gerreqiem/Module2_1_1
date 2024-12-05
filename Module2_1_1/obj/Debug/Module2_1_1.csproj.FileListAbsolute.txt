@@ -1,0 +1,14 @@
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\bin\Debug\Module2_1_1.exe.config
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\bin\Debug\Module2_1_1.exe
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\bin\Debug\Module2_1_1.pdb
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\obj\Debug\Module2_1_1.csproj.AssemblyReference.cache
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\obj\Debug\MainWindow.baml
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\obj\Debug\MainWindow.g.cs
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\obj\Debug\App.g.cs
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\obj\Debug\Module2_1_1_MarkupCompile.cache
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\obj\Debug\Module2_1_1.g.resources
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\obj\Debug\Module2_1_1.Properties.Resources.resources
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\obj\Debug\Module2_1_1.csproj.GenerateResource.cache
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\obj\Debug\Module2_1_1.csproj.CoreCompileInputs.cache
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\obj\Debug\Module2_1_1.exe
+C:\Users\Student.GK216_9\source\repos\Module2_1_1\Module2_1_1\obj\Debug\Module2_1_1.pdb
